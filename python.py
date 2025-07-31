@@ -1,1 +1,7 @@
 print("hello world")
+print("This is a simple Python script.")
+print("hello!")
+print("This is a Python script that prints messages to the console.")
+print("It demonstrates basic print functionality.")
+print("You can modify this script to add more functionality.")
+print("Feel free to experiment with different print statements.")
