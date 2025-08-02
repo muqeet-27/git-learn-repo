@@ -5,4 +5,5 @@ sum = num1 + num2
 difference = num1 - num2
 print(f"addition = {sum}")
 print(f"difference = {difference}")
+print(f"product = {num1 * num2}")
 print("Hello, " + user)
